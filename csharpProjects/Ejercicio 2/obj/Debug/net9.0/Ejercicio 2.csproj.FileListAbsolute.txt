@@ -1,0 +1,28 @@
+C:\Users\Cristhian Franco\Desktop\C#\Estructura-de-datos-C-\csharpProjects\Ejercicio 2\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Cristhian Franco\Desktop\C#\Estructura-de-datos-C-\csharpProjects\Ejercicio 2\bin\Debug\net9.0\appsettings.json
+C:\Users\Cristhian Franco\Desktop\C#\Estructura-de-datos-C-\csharpProjects\Ejercicio 2\bin\Debug\net9.0\Ejercicio 2.staticwebassets.endpoints.json
+C:\Users\Cristhian Franco\Desktop\C#\Estructura-de-datos-C-\csharpProjects\Ejercicio 2\bin\Debug\net9.0\Ejercicio 2.exe
+C:\Users\Cristhian Franco\Desktop\C#\Estructura-de-datos-C-\csharpProjects\Ejercicio 2\bin\Debug\net9.0\Ejercicio 2.deps.json
+C:\Users\Cristhian Franco\Desktop\C#\Estructura-de-datos-C-\csharpProjects\Ejercicio 2\bin\Debug\net9.0\Ejercicio 2.runtimeconfig.json
+C:\Users\Cristhian Franco\Desktop\C#\Estructura-de-datos-C-\csharpProjects\Ejercicio 2\bin\Debug\net9.0\Ejercicio 2.dll
+C:\Users\Cristhian Franco\Desktop\C#\Estructura-de-datos-C-\csharpProjects\Ejercicio 2\bin\Debug\net9.0\Ejercicio 2.pdb
+C:\Users\Cristhian Franco\Desktop\C#\Estructura-de-datos-C-\csharpProjects\Ejercicio 2\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Cristhian Franco\Desktop\C#\Estructura-de-datos-C-\csharpProjects\Ejercicio 2\obj\Debug\net9.0\Ejercicio 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristhian Franco\Desktop\C#\Estructura-de-datos-C-\csharpProjects\Ejercicio 2\obj\Debug\net9.0\Ejercicio 2.AssemblyInfoInputs.cache
+C:\Users\Cristhian Franco\Desktop\C#\Estructura-de-datos-C-\csharpProjects\Ejercicio 2\obj\Debug\net9.0\Ejercicio 2.AssemblyInfo.cs
+C:\Users\Cristhian Franco\Desktop\C#\Estructura-de-datos-C-\csharpProjects\Ejercicio 2\obj\Debug\net9.0\Ejercicio 2.csproj.CoreCompileInputs.cache
+C:\Users\Cristhian Franco\Desktop\C#\Estructura-de-datos-C-\csharpProjects\Ejercicio 2\obj\Debug\net9.0\Ejercicio 2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Cristhian Franco\Desktop\C#\Estructura-de-datos-C-\csharpProjects\Ejercicio 2\obj\Debug\net9.0\Ejercicio 2.sourcelink.json
+C:\Users\Cristhian Franco\Desktop\C#\Estructura-de-datos-C-\csharpProjects\Ejercicio 2\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Cristhian Franco\Desktop\C#\Estructura-de-datos-C-\csharpProjects\Ejercicio 2\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Cristhian Franco\Desktop\C#\Estructura-de-datos-C-\csharpProjects\Ejercicio 2\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Cristhian Franco\Desktop\C#\Estructura-de-datos-C-\csharpProjects\Ejercicio 2\obj\Debug\net9.0\scopedcss\bundle\Ejercicio 2.styles.css
+C:\Users\Cristhian Franco\Desktop\C#\Estructura-de-datos-C-\csharpProjects\Ejercicio 2\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Cristhian Franco\Desktop\C#\Estructura-de-datos-C-\csharpProjects\Ejercicio 2\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Cristhian Franco\Desktop\C#\Estructura-de-datos-C-\csharpProjects\Ejercicio 2\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Cristhian Franco\Desktop\C#\Estructura-de-datos-C-\csharpProjects\Ejercicio 2\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Cristhian Franco\Desktop\C#\Estructura-de-datos-C-\csharpProjects\Ejercicio 2\obj\Debug\net9.0\Ejercicio 2.dll
+C:\Users\Cristhian Franco\Desktop\C#\Estructura-de-datos-C-\csharpProjects\Ejercicio 2\obj\Debug\net9.0\refint\Ejercicio 2.dll
+C:\Users\Cristhian Franco\Desktop\C#\Estructura-de-datos-C-\csharpProjects\Ejercicio 2\obj\Debug\net9.0\Ejercicio 2.pdb
+C:\Users\Cristhian Franco\Desktop\C#\Estructura-de-datos-C-\csharpProjects\Ejercicio 2\obj\Debug\net9.0\Ejercicio 2.genruntimeconfig.cache
+C:\Users\Cristhian Franco\Desktop\C#\Estructura-de-datos-C-\csharpProjects\Ejercicio 2\obj\Debug\net9.0\ref\Ejercicio 2.dll
