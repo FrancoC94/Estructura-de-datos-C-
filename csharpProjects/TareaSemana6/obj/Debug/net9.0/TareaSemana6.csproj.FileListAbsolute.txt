@@ -12,3 +12,4 @@ C:\Users\Cristhian Franco\Desktop\C#\Estructura-de-datos-C-\csharpProjects\Tarea
 C:\Users\Cristhian Franco\Desktop\C#\Estructura-de-datos-C-\csharpProjects\TareaSemana6\obj\Debug\net9.0\TareaSemana6.pdb
 C:\Users\Cristhian Franco\Desktop\C#\Estructura-de-datos-C-\csharpProjects\TareaSemana6\obj\Debug\net9.0\TareaSemana6.genruntimeconfig.cache
 C:\Users\Cristhian Franco\Desktop\C#\Estructura-de-datos-C-\csharpProjects\TareaSemana6\obj\Debug\net9.0\ref\TareaSemana6.dll
+C:\Users\Cristhian Franco\Desktop\C#\Estructura-de-datos-C-\csharpProjects\TareaSemana6\obj\Debug\net9.0\TareaSemana6.sourcelink.json
