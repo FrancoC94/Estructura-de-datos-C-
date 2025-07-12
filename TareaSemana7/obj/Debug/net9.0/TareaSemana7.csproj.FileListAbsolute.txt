@@ -1,0 +1,15 @@
+C:\Users\Cristhian Franco\Desktop\C#\Estructura-de-datos-C-\TareaSemana7\obj\Debug\net9.0\TareaSemana7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristhian Franco\Desktop\C#\Estructura-de-datos-C-\TareaSemana7\obj\Debug\net9.0\TareaSemana7.AssemblyInfoInputs.cache
+C:\Users\Cristhian Franco\Desktop\C#\Estructura-de-datos-C-\TareaSemana7\obj\Debug\net9.0\TareaSemana7.AssemblyInfo.cs
+C:\Users\Cristhian Franco\Desktop\C#\Estructura-de-datos-C-\TareaSemana7\obj\Debug\net9.0\TareaSemana7.csproj.CoreCompileInputs.cache
+C:\Users\Cristhian Franco\Desktop\C#\Estructura-de-datos-C-\TareaSemana7\obj\Debug\net9.0\TareaSemana7.sourcelink.json
+C:\Users\Cristhian Franco\Desktop\C#\Estructura-de-datos-C-\TareaSemana7\bin\Debug\net9.0\TareaSemana7.exe
+C:\Users\Cristhian Franco\Desktop\C#\Estructura-de-datos-C-\TareaSemana7\bin\Debug\net9.0\TareaSemana7.deps.json
+C:\Users\Cristhian Franco\Desktop\C#\Estructura-de-datos-C-\TareaSemana7\bin\Debug\net9.0\TareaSemana7.runtimeconfig.json
+C:\Users\Cristhian Franco\Desktop\C#\Estructura-de-datos-C-\TareaSemana7\bin\Debug\net9.0\TareaSemana7.dll
+C:\Users\Cristhian Franco\Desktop\C#\Estructura-de-datos-C-\TareaSemana7\bin\Debug\net9.0\TareaSemana7.pdb
+C:\Users\Cristhian Franco\Desktop\C#\Estructura-de-datos-C-\TareaSemana7\obj\Debug\net9.0\TareaSemana7.dll
+C:\Users\Cristhian Franco\Desktop\C#\Estructura-de-datos-C-\TareaSemana7\obj\Debug\net9.0\refint\TareaSemana7.dll
+C:\Users\Cristhian Franco\Desktop\C#\Estructura-de-datos-C-\TareaSemana7\obj\Debug\net9.0\TareaSemana7.pdb
+C:\Users\Cristhian Franco\Desktop\C#\Estructura-de-datos-C-\TareaSemana7\obj\Debug\net9.0\TareaSemana7.genruntimeconfig.cache
+C:\Users\Cristhian Franco\Desktop\C#\Estructura-de-datos-C-\TareaSemana7\obj\Debug\net9.0\ref\TareaSemana7.dll
