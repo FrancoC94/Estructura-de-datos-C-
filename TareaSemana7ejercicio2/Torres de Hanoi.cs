@@ -1,60 +1,40 @@
 ﻿using System;
 using System.Collections.Generic;
 
-class Program
-{
-    class Torre
-    {
-        public Stack<int> Discos = new Stack<int>();
-        public string Nombre;
-
-        public Torre(string nombre)
-        {
-            Nombre = nombre;
-        }
-
-        public void MoverDesde(Torre origen)
-        {
-            int disco = origen.Discos.Pop();
-            Discos.Push(disco);
-            Console.WriteLine($"Mover disco {disco} de {origen.Nombre} a {Nombre}");
-        }
+class Persona {
+    public string Nombre { get; set; }
+    public int NumeroTicket { get; set; }
+    public Persona(string nombre, int numero) {
+        Nombre = nombre;
+        NumeroTicket = numero;
     }
-
-    static void Resolver(int n, Torre origen, Torre destino, Torre auxiliar)
-    {
-        if (n == 1)
-        {
-            destino.MoverDesde(origen);
-        }
-        else
-        {
-            Resolver(n - 1, origen, auxiliar, destino);
-            destino.MoverDesde(origen);
-            Resolver(n - 1, auxiliar, destino, origen);
-        }
-    }
-
-    static void Main()
-    {
-        Console.WriteLine("Torres de Hanoi");
-        Console.Write("¿Cuántos discos deseas mover? ");
-        int n = int.Parse(Console.ReadLine());
-
-        Torre torreA = new Torre("A");
-        Torre torreB = new Torre("B");
-        Torre torreC = new Torre("C");
-
-        for (int i = n; i >= 1; i--)
-        {
-            torreA.Discos.Push(i);
-        }
-
-        Console.WriteLine("Movimientos necesarios:");
-        Resolver(n, torreA, torreC, torreB);
-
-        Console.WriteLine("Proceso finalizado. Presiona una tecla para salir.");
-        Console.ReadKey();
-    }
+    public override string ToString() => $"Ticket {NumeroTicket} - {Nombre}";
 }
 
+class Cola {
+    private Queue<Persona> cola = new Queue<Persona>();
+    public void Encolar(Persona p) => cola.Enqueue(p);
+    public Persona Desencolar() => cola.Count > 0 ? cola.Dequeue() : null;
+    public int Count => cola.Count;
+}
+
+class Program {
+    static void Main() {
+        Cola cola = new Cola();
+        int asientos = 5;
+        string[] nombres = { "Ana", "Luis", "María", "Carlos", "Sofía" };
+        int ticket = 1;
+
+        Console.WriteLine("Simulación de ingreso a la atracción:\n");
+        for (int i = 0; i < asientos; i++) {
+            Console.WriteLine($"Registrando: {nombres[i]} (Asiento disponible: {asientos - i})");
+            cola.Encolar(new Persona(nombres[i], ticket++));
+        }
+
+        Console.WriteLine("\nOrden de ingreso:");
+        while (cola.Count > 0) {
+            Persona p = cola.Desencolar();
+            Console.WriteLine($"{p} ha ingresado.");
+        }
+    }
+}

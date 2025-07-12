@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Cristhian Franco\\Desktop\\C#\\Estructura-de-datos-C-\\TareaSemana7\\TareaSemana7.csproj",
+      "projectUniqueName": "C:\\Users\\Cristhian Franco\\Desktop\\Estructura-de-datos-C-\\Estructura-de-datos-C-\\TareaSemana7\\TareaSemana7.csproj",
       "projectName": "TareaSemana7",
-      "projectPath": "C:\\Users\\Cristhian Franco\\Desktop\\C#\\Estructura-de-datos-C-\\TareaSemana7\\TareaSemana7.csproj",
+      "projectPath": "C:\\Users\\Cristhian Franco\\Desktop\\Estructura-de-datos-C-\\Estructura-de-datos-C-\\TareaSemana7\\TareaSemana7.csproj",
       "packagesPath": "C:\\Users\\Cristhian Franco\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Cristhian Franco\\Desktop\\C#\\Estructura-de-datos-C-\\TareaSemana7\\obj\\",
+      "outputPath": "C:\\Users\\Cristhian Franco\\Desktop\\Estructura-de-datos-C-\\Estructura-de-datos-C-\\TareaSemana7\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Cristhian Franco\\AppData\\Roaming\\NuGet\\NuGet.Config"
