@@ -1,0 +1,15 @@
+C:\Users\Cristhian Franco\Desktop\Estructura-de-datos-C-\Estructura-de-datos-C-\TareaSemana11App2\bin\Debug\net9.0\TareaSemana11App2.exe
+C:\Users\Cristhian Franco\Desktop\Estructura-de-datos-C-\Estructura-de-datos-C-\TareaSemana11App2\bin\Debug\net9.0\TareaSemana11App2.deps.json
+C:\Users\Cristhian Franco\Desktop\Estructura-de-datos-C-\Estructura-de-datos-C-\TareaSemana11App2\bin\Debug\net9.0\TareaSemana11App2.runtimeconfig.json
+C:\Users\Cristhian Franco\Desktop\Estructura-de-datos-C-\Estructura-de-datos-C-\TareaSemana11App2\bin\Debug\net9.0\TareaSemana11App2.dll
+C:\Users\Cristhian Franco\Desktop\Estructura-de-datos-C-\Estructura-de-datos-C-\TareaSemana11App2\bin\Debug\net9.0\TareaSemana11App2.pdb
+C:\Users\Cristhian Franco\Desktop\Estructura-de-datos-C-\Estructura-de-datos-C-\TareaSemana11App2\obj\Debug\net9.0\TareaSemana11App2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristhian Franco\Desktop\Estructura-de-datos-C-\Estructura-de-datos-C-\TareaSemana11App2\obj\Debug\net9.0\TareaSemana11App2.AssemblyInfoInputs.cache
+C:\Users\Cristhian Franco\Desktop\Estructura-de-datos-C-\Estructura-de-datos-C-\TareaSemana11App2\obj\Debug\net9.0\TareaSemana11App2.AssemblyInfo.cs
+C:\Users\Cristhian Franco\Desktop\Estructura-de-datos-C-\Estructura-de-datos-C-\TareaSemana11App2\obj\Debug\net9.0\TareaSemana11App2.csproj.CoreCompileInputs.cache
+C:\Users\Cristhian Franco\Desktop\Estructura-de-datos-C-\Estructura-de-datos-C-\TareaSemana11App2\obj\Debug\net9.0\TareaSemana11App2.sourcelink.json
+C:\Users\Cristhian Franco\Desktop\Estructura-de-datos-C-\Estructura-de-datos-C-\TareaSemana11App2\obj\Debug\net9.0\TareaSemana11App2.dll
+C:\Users\Cristhian Franco\Desktop\Estructura-de-datos-C-\Estructura-de-datos-C-\TareaSemana11App2\obj\Debug\net9.0\refint\TareaSemana11App2.dll
+C:\Users\Cristhian Franco\Desktop\Estructura-de-datos-C-\Estructura-de-datos-C-\TareaSemana11App2\obj\Debug\net9.0\TareaSemana11App2.pdb
+C:\Users\Cristhian Franco\Desktop\Estructura-de-datos-C-\Estructura-de-datos-C-\TareaSemana11App2\obj\Debug\net9.0\TareaSemana11App2.genruntimeconfig.cache
+C:\Users\Cristhian Franco\Desktop\Estructura-de-datos-C-\Estructura-de-datos-C-\TareaSemana11App2\obj\Debug\net9.0\ref\TareaSemana11App2.dll
