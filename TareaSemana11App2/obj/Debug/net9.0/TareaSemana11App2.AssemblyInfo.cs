@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TareaSemana11App2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fdbabdbabfc455adb03129fe9c34026e0695f964")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f097cc79f8201100bf1259dacc4a5cdca62c74c")]
 [assembly: System.Reflection.AssemblyProductAttribute("TareaSemana11App2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TareaSemana11App2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
