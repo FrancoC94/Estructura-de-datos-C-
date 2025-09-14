@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Consoletareaseman10App2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f097cc79f8201100bf1259dacc4a5cdca62c74c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0450f961ae1eadc4a46d6ad8528dc7c174d1a15")]
 [assembly: System.Reflection.AssemblyProductAttribute("Consoletareaseman10App2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Consoletareaseman10App2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
